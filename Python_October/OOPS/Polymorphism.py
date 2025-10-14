@@ -1,4 +1,4 @@
-# Polymorphism: same methods on different classes can gives different outputs   
+# Polymorphism: allows methods in different classes to have same name but different behaviour depending on objects
 
 #parent class
 class Student:
